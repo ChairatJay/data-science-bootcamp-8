@@ -16,3 +16,4 @@ I learn a lot of sturff related to data science skills. This bootcamp has 10 spr
 - Essential Python for Data Analyst
 - Dashboard
   
+You can find me on linkedIn https://www.linkedin.com/in/chairat-thurdkiatmongkol-2648a81a5/
